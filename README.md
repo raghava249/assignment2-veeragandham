@@ -10,6 +10,13 @@ There are many ways to reach sivaji museum there are 3 types of trnsportation to
 2. another mode of transportaton is by bus 
 3. mumbai is famous for the local trains like metro or local trains there are some striaght trians to the museum so we don't need worry about the transportation
 ### Alternative airport to the museum
-There are 5 ways to get from Mumbai Airport (BOM) to Chhatrapati Shivaji Maharaj Vastu Sangrahalaya by train, bus, taxi, car or towncar.
+Mumbai airport is the alternative airport and there are different ways of transportation to the museum like bus,train,cab etc...
 ---
-### Best places to vist around the 
+### Best places to vist around the museum
+- Elephant caves
+- Mani bhavan museum
+- Essel world
+- Dharavi
+- Wankhade stadium
+- Colaba
+- Dhobi ghat
