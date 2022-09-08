@@ -26,13 +26,23 @@ Mumbai airport is the alternative airport and there are different ways of transp
 ---
 # Tables
 I recommend these 4 cities should visit when you are in free time
-1.New york
-2.Hyderbad 
-3.chennai
-4.london
+1. New york
+2. Hyderbad 
+3. chennai
 
 |city | location | time |
 |:-----| :--------|:-----|
 |Newyork|buffalo|30min|
 |Hyderbad|tankbund|30min|
 |chennai|beach|30min|
+
+---
+# pithy quotes
+> "Arise!Awake! and stop not untill you reached your goals"
+>@ author:swami vivekananda<br>
+
+>"We gain freedom when we paid full price"
+>@ author:R.tagore<br>
+
+---
+
