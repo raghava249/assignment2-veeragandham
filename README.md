@@ -45,4 +45,19 @@ I recommend these 4 cities should visit when you are in free time
 >@ author:R.tagore<br>
 
 ---
+# code fenching
+ function posted by hypoxide works fine, but I was after something that would basically convert HTML created in a Web RichText editor (for example FCKEditor) and clear out all HTML but leave all the Links due the fact that I wanted both the HTML and the plain text version to aid creating the correct parts to an STMP email (both HTML and plain text).
+The link to source is: <https://stackoverflow.com/questions/822452/strip-html-from-text-javascript>
+```
 
+const originalString = `
+  <div>
+    <p>Hey that's <span>somthing</span></p>
+  </div>
+`;
+
+const strippedString = originalString.replace(/(<([^>]+)>)/gi, "");
+
+console.log(strippedString);
+````
+The quick link for source:<https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/>
