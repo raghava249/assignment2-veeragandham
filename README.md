@@ -22,3 +22,17 @@ Mumbai airport is the alternative airport and there are different ways of transp
 - Wankhade stadium
 - Colaba
 - Dhobi ghat
+--
+---
+# Tables
+I recommend these 4 cities should visit when you are in free time
+1.New york
+2.Hyderbad 
+3.chennai
+4.london
+
+|city | location | time |
+|:-----| :--------|:-----|
+|Newyork|buffalo|30min|
+|Hyderbad|tankbund|30min|
+|chennai|beach|30min|
